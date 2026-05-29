@@ -1,0 +1,3 @@
+# OpenTelemetry
+
+OpenTelemetry observability resources.
